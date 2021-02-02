@@ -138,11 +138,13 @@ article h2.open-forever{
     1px 0 5px #27AE60;
   padding: 1em;
 }
-
 .emphasize h2{
   margin: 0;
   border-left: none;
   text-align: center;
+}
+.row{
+  display: flex;
 }
 .product{
   margin-right: 1em;
