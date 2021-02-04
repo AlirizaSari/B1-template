@@ -84,12 +84,16 @@ table thead, table tbody{
   border-bottom: 1px solid #303030;
 }
 
-table th.slim{
-  width: 100px;
-}
-
 table tfoot{
   font-weight: bold;
+}
+.cart-bord{
+  border: none;
+}
+.cart{
+  padding: 3px;
+  border-left: 5px solid #27AE60;
+  text-align: left;
 }
 
 article{
@@ -206,7 +210,6 @@ footer{
 .hidden-on-sm{
   display: block;
 }
-
 /* 
   ##Device = Most of the Smartphones Mobiles (Portrait)
   ##Screen = B/w 320px to 479px
